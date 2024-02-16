@@ -1,1 +1,1 @@
-# fifty-mini-projects in 50 days
+# fifty-mini-projects in fifty days
